@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/Res">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>220px-Sphere-wireframe.png</file>
+        <file>2094_p8_2.png</file>
+        <file>1288364204.png</file>
+        <file>i.png</file>
+        <file>information.png</file>
+        <file>spravka.png</file>
+        <file>220px-Par.png</file>
+        <file>600px-Gnuplot_ellipsoid.svg.png</file>
+        <file>HyperboloidOfOneSheet.png</file>
+        <file>HyperboloidOfTwoSheets.png</file>
+        <file>pimage428.png</file>
+        <file>pimage430.png</file>
+        <file>pimage432.png</file>
+        <file>parabola.png</file>
+        <file>Ellipse_parameters.png</file>
+        <file>270011.png</file>
+    </qresource>
+</RCC>
